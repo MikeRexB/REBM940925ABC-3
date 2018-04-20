@@ -1,0 +1,5 @@
+los test fueron correctos porque lo que hace el metodo
+es concatenar la cadena consigo misma y le quita la primera
+y la ultima letra. Luego ve si la nueva cadena contiene a la 
+cadena original, esto solo sucede si la cadena original esta
+compuesta de alguna subcadena repetida varias veces, al menos dos
