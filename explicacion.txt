@@ -3,3 +3,13 @@ es concatenar la cadena consigo misma y le quita la primera
 y la ultima letra. Luego ve si la nueva cadena contiene a la 
 cadena original, esto solo sucede si la cadena original esta
 compuesta de alguna subcadena repetida varias veces, al menos dos
+
+
+ejemplo 
+aba -> abaaba -> baab
+baab no contiene a la cadena original pues no estaba cumplia los requisitos
+
+si lo hubiese cumplido la cade estaria formada por n subcadena iguales
+entonces la sig cadena tiene 2n cadenas iguales
+y la ultima cadena tiene al menos 2n-2 cadenas iguales
+la cual contiene a la cadena original para todo n >= 2
